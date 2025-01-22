@@ -1,8 +1,13 @@
 ## Ujian Akhir Semester Jarkom Lanjut
 
+### Mata Kuliah: Jaringan Komputer Lanjut (CIE722)
+
+### Dosen Pengampu: Jefry Sunupurwa Asri, S.Kom., M.Kom.
+
 ### Nama: Aulia Fitri Nur Cahyati
 
 ### NIM: 20220801148
+
 
 
 
